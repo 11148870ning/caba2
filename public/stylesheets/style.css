@@ -1,0 +1,20 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+button,input {
+  margin: 20px;
+}
+
+#upload {
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 30%;
+  margin-right: 30%;
+}
